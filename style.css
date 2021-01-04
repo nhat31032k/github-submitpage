@@ -1,0 +1,195 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+        background-color: #ffffff;
+    }
+    
+    body {
+        width: 100%;
+        height: 100vh;
+    }
+    
+    .dropdown {
+        display: inline-block;
+        margin: 15px 20px;
+    }
+    
+    .dropdown-menu {
+        padding-left: 1.5rem;
+        text-decoration: none;
+        color: #bbb5b6;
+    }
+    
+    .title {
+        padding-left: 0.4rem;
+    }
+    
+    .title2 {
+        padding-left: 0.5rem;
+        font-size: 1.5rem;
+        color: blue;
+    }
+    
+    .title3,
+    .title6 {
+        margin-left: 7rem;
+        font-weight: bold;
+    }
+    
+    .title4 {
+        margin-left: 7rem;
+        margin-right: 2.5rem;
+        background-color: blue;
+    }
+    
+    .title5 {
+        margin-left: 7rem;
+        margin-right: 2.5rem;
+    }
+    /* .title6{
+        margin-left: 7rem;
+    } */
+    
+    a {
+        color: rgb(71, 71, 71);
+        padding-top: 1rem;
+    }
+    
+    .fa-bars {
+        font-size: 1.3rem;
+    }
+    
+    img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin: 20px 30px;
+    }
+    
+    .second-content {
+        padding-left: 7rem;
+    }
+    
+    .content {
+        width: 100%;
+        max-width: 70%;
+        height: 100vh;
+        display: inline-block;
+    }
+    
+    .footer {
+        padding-top: 0.8rem;
+        padding-left: 7rem;
+    }
+    
+    .input-text {
+        width: 80%;
+        height: 40px;
+        border-radius: 20px;
+        background-color: #ffffff;
+        box-shadow: 3px -3px 11px 7px rgba(206, 204, 204, 0.925);
+        border: 0;
+        position: relative;
+    }
+    
+    .fa-arrows-alt-h {
+        font-size: 2rem;
+        padding-left: 10px;
+        color: blue;
+        position: relative;
+    }
+    
+    .table-content {
+        width: 100%;
+        height: 600px;
+        max-width: 28%;
+        background-color: #fafffd56;
+        /* border-radius: 20px;
+        border: 0;
+        margin: 40px 20px;
+        /* box-shadow: 3px -3px 11px 7px rgba(206, 204, 204, 0.39); */
+        display: inline-block;
+        position: absolute;
+    }
+    
+    .second-header {
+        width: 400px;
+        height: 15rem;
+        background-color: #ffffff;
+        padding-top: 30px;
+        border-radius: 20px;
+        border: 0;
+        margin: 40px 20px;
+        box-shadow: 3px -3px 11px 7px rgba(206, 204, 204, 0.39);
+        /* align-items: center; */
+        /* display: flex;
+        
+        /* justify-content: center; */
+    }
+    
+    .title7 {
+        font-size: 1.5rem;
+        padding-left: 5rem;
+        color: blue;
+    }
+    
+    .file {
+        padding: 20px 45px;
+    }
+    
+    .submit {
+        width: 300px;
+        height: 40px;
+        margin-left: 60px;
+        color: white;
+        background-color: blue;
+        /* padding-top: 20px; */
+        margin-top: 20px;
+        border-radius: 20px;
+        border: 0;
+    }
+    
+    .thirt-header {
+        width: 400px;
+        height: 13rem;
+        background-color: #ffffff;
+        padding-top: 30px;
+        border-radius: 20px;
+        border: 0;
+        margin: 40px 20px;
+        box-shadow: 3px -3px 11px 7px rgba(206, 204, 204, 0.39);
+        padding-left: 50px;
+        /* align-items: center; */
+        /* display: flex;
+        
+        /* justify-content: center; */
+    }
+    
+    .title8 {
+        font-size: 1.6rem;
+        padding-left: 3rem;
+        color: blue;
+        padding-bottom: 10px;
+    }
+    
+    .text1 {
+        width: 100px;
+        border-radius: 20px;
+        background-color: #ffffff;
+        box-shadow: 3px -3px 11px 7px rgba(206, 204, 204, 0.39);
+        margin-left: 30px;
+    }
+    
+    .submit2 {
+        width: 280px;
+        height: 40px;
+        margin-right: 50px !important;
+        color: white;
+        background-color: blue;
+        /* padding-top: 20px; */
+        margin-top: 30px;
+        border-radius: 20px;
+        border: 0;
+    }
